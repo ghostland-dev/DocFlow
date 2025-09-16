@@ -78,4 +78,3 @@ export function createAuditEntry(documentId: string, userId: string, action: str
     details: metadata.details || {},
   }
 }
-

@@ -118,4 +118,3 @@ export function getAllTemplates() {
     description: template.description,
   }))
 }
-

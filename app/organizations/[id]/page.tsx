@@ -521,4 +521,3 @@ export default function OrganizationDetailsPage({ params }: { params: { id: stri
     </div>
   )
 }
-

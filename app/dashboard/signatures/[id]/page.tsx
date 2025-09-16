@@ -526,4 +526,3 @@ export default function SignatureDetailsPage({ params }: { params: { id: string 
     </div>
   )
 }
-

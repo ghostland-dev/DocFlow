@@ -445,4 +445,3 @@ export default function ProjectPage({ params }: { params: { id: string } }) {
     </div>
   )
 }
-

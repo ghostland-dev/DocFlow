@@ -602,4 +602,3 @@ export default function DocumentDetailsPage({ params }: { params: { id: string }
     </div>
   )
 }
-

@@ -480,4 +480,3 @@ export default function DocumentEditor() {
     </div>
   )
 }
-

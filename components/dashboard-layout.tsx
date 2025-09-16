@@ -44,4 +44,3 @@ export function DashboardLayout({ children }) {
     </div>
   )
 }
-
